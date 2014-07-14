@@ -1,0 +1,9 @@
+{
+  "name": "coro",
+  "version": "2012-12-21",
+  "repo": "clibs/coro",
+  "description": "C coroutines",
+  "keywords": ["coroutine"],
+  "license": "BSD",
+  "src": ["coro.c", "coro.h"]
+}
